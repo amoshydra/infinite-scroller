@@ -1,0 +1,14 @@
+{
+  "devDependencies": {
+    "@vue/cli": "^3.0.0-beta.12",
+    "@vue/cli-service": "^3.0.0-beta.12",
+    "@vue/cli-service-global": "^3.0.0-beta.12"
+  },
+  "dependencies": {
+    "lodash": "^4.17.10",
+    "vue": "^2.5.16"
+  },
+  "scripts": {
+    "example": "vue serve ./example/App.vue"
+  }
+}

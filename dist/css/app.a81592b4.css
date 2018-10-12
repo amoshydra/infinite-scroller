@@ -1,0 +1,1 @@
+.infinite-scroller{overflow-y:scroll;position:relative}.infinite-scroller__item{position:absolute;width:calc(100% - 200px)}.infinite-scroller__item:last-child{height:1px;width:1px}.item{border:1px solid #000;padding:20px}
